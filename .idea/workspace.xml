@@ -17,9 +17,24 @@
       </list>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="D:/PycharmProjects/parsing_WB_BSoup_Selenium" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "IgorL0SEV"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/IgorL0SEV/parsing_WB_Bsoup_Selenium",
+    "accountId": "72cd6f35-50ce-4a52-a63b-ba687d8a2f3e"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2x3BFbCmMjHPrf3uBICeigdKHuv" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -31,6 +46,7 @@
     "Python.wb_parser.executor": "Run",
     "Python.web_parsing_WB.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "D:/PycharmProjects/parsing_WB_BSoup_Selenium",
     "settings.editor.selected.configurable": "vcs.Git"
   }
